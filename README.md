@@ -4,25 +4,11 @@ CSV Analyser allows you to read CSV files, perform various operations on the dat
 
 ## Key Features
 
-### Data Processing
-
-CSV Analyser reads CSV data from files and processes it into an internal format for manipulation. It provides a user-friendly command-line interface for interacting with the data.
-
-### Interactive Commands
-
-The command-line interface supports various commands for manipulating and analysing the data. From calculating statistics to sorting and plotting, CSV Analyser offers a range of functionalities to meet your data analysis needs.
-
-### Statistical Analysis
-
-You can perform statistical analysis on selected columns of data, including computing maximum, minimum, average, and median values. This feature allows for quick insights into your dataset's characteristics.
-
-### Sorting
-
-CSV Analyser enables sorting of CSV data based on specified columns. It maintains stability in sorting to preserve the original order of rows where ties occur.
-
-### Data Visualization
-
-Generate frequency histograms of selected columns as sideways bar charts for visualizing data distributions. CSV Analyser provides flexible options for customizing the appearance of your plots.
+- **Data Processing**: CSV Analyser reads CSV data from files and processes it into an internal format for manipulation. It provides a user-friendly command-line interface for interacting with the data.
+- **Interactive Commands**: The command-line interface supports various commands for manipulating and analysing the data. From calculating statistics to sorting and plotting, CSV Analyser offers a range of functionalities to meet your data analysis needs.
+- **Statistical Analysis**: You can perform statistical analysis on selected columns of data, including computing maximum, minimum, average, and median values. This feature allows for quick insights into your dataset's characteristics.
+- **Sorting**: CSV Analyser enables sorting of CSV data based on specified columns. It maintains stability in sorting to preserve the original order of rows where ties occur.
+- **Data Visualization**: Generate frequency histograms of selected columns as sideways bar charts for visualizing data distributions. CSV Analyser provides flexible options for customizing the appearance of your plots.
 
 ## Getting Started
 1. **Clone the Repository**: Begin by cloning the CSV Analyser repository to your local machine.
