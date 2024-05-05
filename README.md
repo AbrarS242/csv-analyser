@@ -28,7 +28,7 @@ Generate frequency histograms of selected columns as sideways bar charts for vis
 1. **Clone the Repository**: Begin by cloning the CSV Analyser repository to your local machine.
 2. **Compile the Program**: Navigate to the project directory and compile the CSV Analyser program using a C compiler such as `gcc`.
 
-`gcc -o csv_analyser main-program.c`
+`gcc -o csv_analyser main_program.c`
 
 3. **Run the Program**: Execute the compiled program, providing the path to your CSV file as an argument.
    
