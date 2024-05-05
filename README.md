@@ -42,17 +42,29 @@ Generate frequency histograms of selected columns as sideways bar charts for vis
 
 Example: `a 1 4`
 
+!['a' command][example_output/a_command.png]
+
 - **d**: Display data from specified columns.
 
 Example: `d 2 0 1`
+
+!['d' command][example_output/d_command.png]
 
 - **s**: Sort the data based on specified columns.
 
 Example: `s 3 0 1 2`
 
+!['s' command][example_output/s_command.png]
+
 - **p**: Generate a frequency histogram of selected columns.
 
 Example: `p 2 3`
+
+!['p' command][example_output/p_command.png]
+
+- **i**: Display index information.
+
+!['i' command][example_output/i_command.png]
 
 ## Note ##
 This program was written as an assignment at the University of Melbourne. 
