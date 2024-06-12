@@ -51,6 +51,3 @@ Example: `p 2 3`
 - **i**: Display index information.
 
 !['i' command](https://github.com/AbrarS242/csv-analyser/blob/main/example_output/i_command.PNG)
-
-## Note ##
-This program was written as an assignment at The University of Melbourne. The skeleton code has been written by Alistair Moffat (ammoffat@unimelb.edu.au).
